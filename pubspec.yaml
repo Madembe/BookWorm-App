@@ -1,6 +1,6 @@
 
 name: bookworm
-description: A second-hand book trading app for university students.
+description: A second-hand book trading app for students.
 publish_to: 'none'
 version: 1.0.0+1
 
@@ -11,10 +11,6 @@ dependencies:
   flutter:
     sdk: flutter
   cupertino_icons: ^1.0.2
-
-dev_dependencies:
-  flutter_test:
-    sdk: flutter
 
 flutter:
   uses-material-design: true
